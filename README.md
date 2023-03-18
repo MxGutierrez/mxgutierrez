@@ -8,13 +8,13 @@
 
 I'm a Full-stack developer and DevOps enthusiast.
 
-## 💻 Currently Working On:
+## 💻 Currently working on:
 
 - Getting my Software Engineering degree
 - Building software @ [Endava](https://www.endava.com/)
 - Learning to dive 🤿
 
-## 🛠 Tech Stack:
+## 🛠 Tech stack:
 
 <p align="left">
   <a><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
