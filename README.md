@@ -31,3 +31,15 @@ I'm a Full-stack developer and DevOps enthusiast.
 <a><img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql"/></a>
 <a><img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws"/></a>
 </p>
+
+<p align="left">
+  <a href="https://www.credly.com/badges/84a45e0f-7f13-40a5-a177-ee4db18cf403">
+    <img src="https://user-images.githubusercontent.com/46251023/226138646-4e5554ae-cc57-4856-9403-10634fe611f8.png" height="60" />
+  </a>
+  <a href="https://www.credly.com/badges/d8045abb-a5ca-466d-9fcb-e46b41915fc0">
+    <img src="https://user-images.githubusercontent.com/46251023/226138756-a4cc1377-b4be-49ed-b2d2-4e2c836f4e74.png" height="60" />
+  </a>
+  <a href="https://www.credly.com/badges/5b05198e-66fe-4bcd-8333-65adb0f2a906">
+    <img src="https://user-images.githubusercontent.com/46251023/226138766-8c4c632e-cc42-4a1b-8566-1059279aac6c.png" height="60" />
+  </a>
+</p>
