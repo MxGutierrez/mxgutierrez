@@ -12,6 +12,7 @@ I'm a Full-stack developer and DevOps enthusiast.
 
 - Getting my Software Engineering degree
 - Building software @ [Endava](https://www.endava.com/)
+- Learning to dive 🤿
 
 ## 🛠 Tech Stack:
 
