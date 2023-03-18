@@ -13,6 +13,7 @@ I'm a Full-stack developer and DevOps enthusiast.
 - Getting my Software Engineering degree
 - Building software @ [Endava](https://www.endava.com/)
 - Learning to dive 🤿
+- Reading [Actionable Gamification](https://www.goodreads.com/en/book/show/25416321) by Yu-kai Chou
 
 ## 🛠 Tech stack
 
