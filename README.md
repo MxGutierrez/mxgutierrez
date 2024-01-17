@@ -11,7 +11,7 @@ I'm a Full-stack developer and DevOps enthusiast.
 ## 🚴 Currently working on
 
 - Getting my Software Engineering degree
-- Building software @ [Endava](https://www.endava.com/)
+- Building software @ [Puppeteer AI](https://getpuppeteer.ai/)
 - Learning to dive 🤿
 - Reading [Actionable Gamification](https://www.goodreads.com/en/book/show/25416321) by Yu-kai Chou
 
